@@ -1,5 +1,4 @@
-﻿
-using AsyncExamples.Entidades;
+﻿using AsyncExamples.Entidades;
 using AsyncExamples.Tarefas;
 
 var joao = new Pessoa("Joao");
